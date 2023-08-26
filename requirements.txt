@@ -1,7 +1,9 @@
-streamlit>=1.26.0
-langchain>=0.0.217
-openai
-duckduckgo-search
-anthropic>=0.3.0
-trubrics>=1.4.3
-streamlit-feedback
+git+https://github.com/mobarski/ai-bricks.git
+streamlit
+pypdf
+scikit-learn
+numpy
+pycryptodome
+boto3
+redis
+retry
